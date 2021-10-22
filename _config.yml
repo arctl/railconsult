@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Рейл Консалт"
   avatar : "/assets/images/favicon.ico"
   bio    : "Свобода для дела"
   links:
