@@ -1,6 +1,5 @@
 ---
 title: "Контакты"
-excerpt: "Страница не найдена. Информация находится в другом месте."
 sitemap: true
 permalink: /contacts
 ---
