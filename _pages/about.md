@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "О компании"
-last_modified_at:
 toc: true
 ---
 
