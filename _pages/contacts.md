@@ -1,7 +1,7 @@
 ---
 title: "Контакты"
 sitemap: true
-permalink: /contacts
+permalink: /contacts/
 ---
 
 
