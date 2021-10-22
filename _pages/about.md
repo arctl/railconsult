@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "О компании"
-last_modified_at: 2021-10-018T14:15:00-00:00
+last_modified_at: 
 toc: true
 ---
 
