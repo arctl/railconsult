@@ -1,6 +1,6 @@
 ---
 title: "По тегам"
-permalink: /news/
+permalink: /posts/
 layout: tags
 author_profile: true
 ---
