@@ -82,16 +82,6 @@ author:
       icon: "fas fa-edit"
       url: "https://arctl.ru/contact-us/?theme=Запрос%20на%20подключение"
 
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : # "/assets/images/"
-  bio              : # ""
-  links:
-
-    - label: "Тарифы"
-      icon: "fas fa-calculator"
-      url: "https://arctl.ru/price"
-
-
 footer:
   links:
     - label: "facebook"
