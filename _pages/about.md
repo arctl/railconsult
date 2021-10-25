@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "О компании"
-toc: true
 ---
 
 

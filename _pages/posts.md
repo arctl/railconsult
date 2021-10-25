@@ -1,5 +1,5 @@
 ---
-title: "По тегам"
+title: "Сортировка по тегам"
 permalink: /posts/
 layout: tags
 author_profile: true
