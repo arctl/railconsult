@@ -71,15 +71,7 @@ author:
     - label: "Кто наши клиенты"
       icon: "fas fa-fw fa-link"
       url: "https://arctl.github.io/railconsult/clients/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
 
 footer:
   links:
