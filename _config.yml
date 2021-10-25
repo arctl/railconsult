@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/favicon.ico"
   bio    : "Свобода для дела"
   links:
-    - label: "Website"
+    - label: "История возниконовения"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
