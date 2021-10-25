@@ -61,7 +61,14 @@ author:
   name   : "Рейл Консалт"
   avatar : "/assets/images/favicon.ico"
   bio    : "Свобода для дела"
+  location : "Россия, Екатеринбург"
   links:
+    - label: "facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://web.facebook.com/arctlonline"
+    - label: "telegram"
+      icon: "fab fa-telegram"
+      url: "https://t.me/arctl"
     - label: "История возниконовения"
       icon: "fas fa-fw fa-link"
       url: "https://arctl.github.io/railconsult/history/"
@@ -71,19 +78,31 @@ author:
     - label: "Кто наши клиенты"
       icon: "fas fa-fw fa-link"
       url: "https://arctl.github.io/railconsult/clients/"
+    - label: "Запрос на подключение"
+      icon: "fas fa-edit"
+      url: "https://arctl.ru/contact-us/?theme=Запрос%20на%20подключение"
+
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : # "/assets/images/"
+  bio              : # ""
+  links:
+
+    - label: "Тарифы"
+      icon: "fas fa-calculator"
+      url: "https://arctl.ru/price"
 
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://web.facebook.com/arctlonline"
+    - label: "telegramm"
+      icon: "fab fa-telegram"
+      url: "https://t.me/arctl"
+    - label: "GitHub repository"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/arctl/docs/"
 
 defaults:
   # _posts
