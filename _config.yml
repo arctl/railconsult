@@ -63,12 +63,6 @@ author:
   bio    : "Свобода для дела"
   location : "Россия, Екатеринбург"
   links:
-    - label: "facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://web.facebook.com/arctlonline"
-    - label: "telegram"
-      icon: "fab fa-telegram"
-      url: "https://t.me/arctl"
     - label: "История возниконовения"
       icon: "fas fa-fw fa-link"
       url: "https://arctl.github.io/railconsult/history/"
@@ -90,9 +84,6 @@ footer:
     - label: "telegramm"
       icon: "fab fa-telegram"
       url: "https://t.me/arctl"
-    - label: "GitHub repository"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/arctl/docs/"
 
 defaults:
   # _posts
