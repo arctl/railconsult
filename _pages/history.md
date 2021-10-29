@@ -2,6 +2,7 @@
 title: "История возниконовения"
 sitemap: true
 permalink: /history/
+author_profile: true
 ---
 
 

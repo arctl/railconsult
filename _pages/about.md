@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "О компании"
+author_profile: true
 ---
 
 

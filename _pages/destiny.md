@@ -2,6 +2,7 @@
 title: "Программы учета в транспортной логистике"
 sitemap: true
 permalink: /destiny/
+author_profile: true
 ---
 
 

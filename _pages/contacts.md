@@ -2,6 +2,7 @@
 title: "Контакты"
 sitemap: true
 permalink: /contacts/
+author_profile: true
 ---
 
 

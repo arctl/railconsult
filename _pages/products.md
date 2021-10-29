@@ -2,6 +2,7 @@
 title: "Продукты"
 sitemap: true
 permalink: /products/
+author_profile: true
 ---
 
 Агентство Рейл Консалт предлагает своим клиентам следующие продукты и услуги:
