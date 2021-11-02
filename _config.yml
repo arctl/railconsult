@@ -47,7 +47,6 @@ plugins:
 
 author:
   name   : "Рейл Консалт"
-  avatar : "/assets/images/favicon.ico"
   bio    : "Свобода для дела"
   location : "Россия, Екатеринбург"
   links:
