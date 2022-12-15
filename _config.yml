@@ -65,9 +65,6 @@ author:
 
 footer:
   links:
-    - label: "facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://web.facebook.com/arctlonline"
     - label: "telegramm"
       icon: "fab fa-telegram"
 defaults:
