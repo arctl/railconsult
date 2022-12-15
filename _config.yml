@@ -1,7 +1,6 @@
 # Welcome to Jekyll!
 
-title: Агентство Рейл Консалт <br />
-        Свобода для дела
+title: Агентство Рейл Консалт
 logo : "assets/images/railConsult_logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 email:
 description: >- Свобода для дела
