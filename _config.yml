@@ -1,12 +1,11 @@
 # Welcome to Jekyll!
 
-title: Агентство Рейл Консалт
+title: Агентство Рейл Консалт <br />
+        Свобода для дела
 logo : "assets/images/railConsult_logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >- Свобода для дела
+
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
