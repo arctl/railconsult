@@ -1,5 +1,5 @@
 ---
-title: "История возниконовения"
+title: "История возникновения"
 sitemap: true
 permalink: /history/
 author_profile: true
